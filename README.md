@@ -5,26 +5,6 @@ inorout-ui
 [![Dependency Status](http://img.shields.io/gemnasium/in-or-out/inorout-ui.svg?style=flat-square)](https://gemnasium.com/in-or-out/inorout-ui)
 [![Code Climate](https://img.shields.io/codeclimate/github/in-or-out/inorout-ui.svg?style=flat-square)](https://codeclimate.com/github/in-or-out/inorout-ui)
 
-[TodoMVC](http://todomvc.com/) application, written in [Ember.js](http://emberjs.com/)
-using [Ember CLI](http://www.ember-cli.com/).
-
-The application includes:
-
-✓ Ember [v1.10](http://emberjs.com/blog/2015/02/07/ember-1-10-0-released.html)  
-✓ HTMLBars [templates](https://github.com/in-or-out/inorout-ui/tree/master/app/templates)  
-✗ (not implemented yet) Ember components  
-✓ Unit and end-to-end tests using [QUnit](http://qunitjs.com/) and [Testem](https://github.com/airportyh/testem)  
-✓ Continuous Integration setup with [Travis CI](https://travis-ci.org/)  
-✗ (not implemented yet) Code coverage analysis with [Istanbul](http://gotwarlost.github.io/istanbul/)  
-
-
-Live demos
-----------
-
-[App](http://in-or-out.github.io/inorout-ui/) ([development mode](http://in-or-out.github.io/inorout-ui/dev/))  
-[Tests](http://in-or-out.github.io/inorout-ui/dev/tests/)  
-
-
 Installation
 ------------
 
