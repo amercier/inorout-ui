@@ -1,9 +1,9 @@
-todomvc-ember-cli
-=================
+inorout-ui
+==========
 
-[![Build Status](http://img.shields.io/travis/amercier/todomvc-ember-cli/master.svg?style=flat-square)](https://travis-ci.org/amercier/todomvc-ember-cli)
-[![Dependency Status](http://img.shields.io/gemnasium/amercier/todomvc-ember-cli.svg?style=flat-square)](https://gemnasium.com/amercier/todomvc-ember-cli)
-[![Code Climate](https://img.shields.io/codeclimate/github/amercier/todomvc-ember-cli.svg?style=flat-square)](https://codeclimate.com/github/amercier/todomvc-ember-cli)
+[![Build Status](http://img.shields.io/travis/in-or-out/inorout-ui/master.svg?style=flat-square)](https://travis-ci.org/in-or-out/inorout-ui)
+[![Dependency Status](http://img.shields.io/gemnasium/in-or-out/inorout-ui.svg?style=flat-square)](https://gemnasium.com/in-or-out/inorout-ui)
+[![Code Climate](https://img.shields.io/codeclimate/github/in-or-out/inorout-ui.svg?style=flat-square)](https://codeclimate.com/github/in-or-out/inorout-ui)
 
 [TodoMVC](http://todomvc.com/) application, written in [Ember.js](http://emberjs.com/)
 using [Ember CLI](http://www.ember-cli.com/).
@@ -11,7 +11,7 @@ using [Ember CLI](http://www.ember-cli.com/).
 The application includes:
 
 ✓ Ember [v1.10](http://emberjs.com/blog/2015/02/07/ember-1-10-0-released.html)  
-✓ HTMLBars [templates](https://github.com/amercier/todomvc-ember-cli/tree/master/app/templates)  
+✓ HTMLBars [templates](https://github.com/in-or-out/inorout-ui/tree/master/app/templates)  
 ✗ (not implemented yet) Ember components  
 ✓ Unit and end-to-end tests using [QUnit](http://qunitjs.com/) and [Testem](https://github.com/airportyh/testem)  
 ✓ Continuous Integration setup with [Travis CI](https://travis-ci.org/)  
@@ -21,8 +21,8 @@ The application includes:
 Live demos
 ----------
 
-[App](http://amercier.github.io/todomvc-ember-cli/) ([development mode](http://amercier.github.io/todomvc-ember-cli/dev/))  
-[Tests](http://amercier.github.io/todomvc-ember-cli/dev/tests/)  
+[App](http://in-or-out.github.io/inorout-ui/) ([development mode](http://in-or-out.github.io/inorout-ui/dev/))  
+[Tests](http://in-or-out.github.io/inorout-ui/dev/tests/)  
 
 
 Installation

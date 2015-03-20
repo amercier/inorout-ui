@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'todomvc-ember-cli',
+    modulePrefix: 'inorout-ui',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
