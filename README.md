@@ -16,9 +16,15 @@ You will need the following things properly installed on your computer:
 
 ### Installation
 
-- `git clone <repository-url>` this repository
+- Fork this repo
+- `git clone <your-repository-url>` this repository
 - change into the new directory
 - `npm install`
+- add source remote:
+
+    git remote add source git@github.com:in-or-out/inorout-ui.git
+    git remote set-url --push source no-pushing
+
 
 ### Running / Development
 
